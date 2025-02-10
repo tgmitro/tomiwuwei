@@ -1,0 +1,26 @@
+body{ 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.collapsible {
+    margin: 10px 0;
+}
+
+.collapsible-button {
+    background-color: #f1f1f1;
+    color: #444;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    width: 100%;
+}
+
+.content {
+    display: none; /* Hidden by default */
+    padding: 0 18px;
+    overflow: hidden;
+    background-color: #f9f9f9;
+}
