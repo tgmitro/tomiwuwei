@@ -2,8 +2,11 @@
 layout: post
 title:  "Care less"
 date:   2024-09-30 12:41:54 +0100
-categories: care less wuwei
+categories: care less wuwei tomig
 ---
 Care less
 
 [![Care less](https://img.youtube.com/vi/zbA71WdVUoA/hqdefault.jpg)](https://www.youtube.com/watch?v=zbA71WdVUoA){:target="_blank"}
+
+
+@tomig.org
