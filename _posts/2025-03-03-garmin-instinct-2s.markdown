@@ -15,4 +15,12 @@ Today, I ordered a Garmin Instinct 2S in search of a meaningful and simple smart
 
 The reason I've stuck with the Garmin brand is that the measurements and reliability are just top-notch. I've had experiences with Xiaomi smartwatches, but the features and precision are not on par with Garmin. Heart rate and sleep states are measured with precision on the Garmin, whereas they are just so-so on the Xiaomi. Xiaomi does have an advantage in that it offers an OLED display, which is very affordable.
 
+![Garmin Instinct 2s](/assets/images/garmin/25-03-03 10-21-40 0196.jpg)
+
+![Garmin Instinct 2s](/assets/images/garmin/25-03-03 10-21-48 0197.jpg)
+
+![Garmin Instinct 2s](/assets/images/garmin/25-03-03 10-23-24 0198.jpg)
+
+![Garmin Instinct 2s](/assets/images/garmin/25-03-03 10-45-18 0199.jpg)
+
 
