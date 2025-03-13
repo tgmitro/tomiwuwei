@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tomi
+title: Tomig
 email: tomig@fastmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Going with the flow of creation. My notes and articles.
+  Minimalism, simplicity, and the search for joy in the flow of life. Balancing family and household in the fast-paced, consumer-driven Western world.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.tomig.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
