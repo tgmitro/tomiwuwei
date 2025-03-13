@@ -9,21 +9,14 @@ Aštavakra Gita alebo Báseň Aštavakra.
 Rozhovor medzi Králom Janakom a Aštavakrom.
 Hovorí o jednote bytia a absencií duality existencie.
 
-### Predhovor prekladatela diela, ktoré je aj základom pre spomenutú Audio Knihu preložil John Richards.
-
-Aštavakra Gíta alebo Aštavakra Samhita, ako sa niekedy nazýva, je
-veľmi starý sanskritský text. Zdá sa, že o autorovi nie je nič známe, hoci
-tradícia ho pripisuje mudrcovi Aštavakrovi; odtiaľ pochádza aj jeho názov. niet však pochýb, že je veľmi starý, pravdepodobne pochádza z čias
-klasického obdobia védánty. Sanskritský štýl a vyjadrené učenie
-Zdá sa, že toto hodnotenie je opodstatnené.
 Dielo poznal, oceňoval a citoval Rámakrišna a jeho žiak
 Vivekananda, ako aj Ramana Maharši, zatiaľ čo Radhakrishnan vždy
-sa naň odvoláva s veľkou úctou. Okrem toho dielo hovorí samo za seba.
+sa naň odvoláva s veľkou úctou.
+
 Predstavuje tradičné učenie advaita védánty s jasnosťou a silou
-s ktorou sa vyrovná len veľmi zriedka.
-Preklad, ktorý je tu uvedený, je dielom Johna Richardsa a je určený verejnosti
-s jeho láskou. Toto dielo bolo v jeho živote stálou inšpiráciou pre mnohých
-rokov. Kiež by ním bolo aj pre mnohých ďalších.
+s ktorou sa vyrovná len veľmi zriedka. Prikladám odkaz na youtube a PDF samotného diela preloženého Johnom Richardsom.
+
+Nameste.
 
 ### Audiokniha dostupná v Angličtine
 
