@@ -7,7 +7,7 @@ categories: Gita Song Pieseň Báseň
 
 Ashtavakra Gita alebo Báseň Ashtavakra.
 Rozhovor medzi Králom Janakom a Ashtavakrom.
-Hovorí o jednotí bytia a absencie duality existencie.
+Hovorí o jednote bytia a absencií duality existencie.
 
 Audiokniha dostupná v Angličtine.
 
