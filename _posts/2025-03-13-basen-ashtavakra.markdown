@@ -21,3 +21,7 @@ Nameste.
 ### Audiokniha dostupná v Angličtine
 
 [![Ashtavakra Gita Audiokniha v angličtine](https://img.youtube.com/vi/0H_tqaiwt2w/hqdefault.jpg)](https://www.youtube.com/watch?v=0H_tqaiwt2w){:target="_blank"}
+
+### PDF Kniha 
+
+[PDF Kniha](https://next.tomig.org/index.php/s/Sk5zFXFKTLgen9P)
