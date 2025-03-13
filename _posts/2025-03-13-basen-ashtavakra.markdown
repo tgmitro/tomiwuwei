@@ -24,4 +24,4 @@ Nameste.
 
 ### PDF Kniha 
 
-[PDF Kniha](https://next.tomig.org/index.php/s/Sk5zFXFKTLgen9P)
+[PDF Kniha](https://next.tomig.org/index.php/s/Sk5zFXFKTLgen9P){:target="_blank"}
