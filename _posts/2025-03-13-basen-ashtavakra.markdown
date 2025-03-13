@@ -2,7 +2,7 @@
 layout: post
 title:  "Báseň Ashtavakragita"
 date:   2025-03-13 12:00:00 +0100
-categories: Gita Song Pieseň Báseň
+categories: gita
 ---
 
 Aštavakra Gita alebo Báseň Aštavakra.
