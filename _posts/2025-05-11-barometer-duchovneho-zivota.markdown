@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Barometer"
+title:  "Barometer nášho duchovného života"
 date:   2025-05-11 12:00:00 +0100
 categories: barometer
 ---
