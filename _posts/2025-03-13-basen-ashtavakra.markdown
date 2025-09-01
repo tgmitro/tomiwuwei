@@ -29,7 +29,3 @@ Nameste.
 
 ### Audiokniha (Česky) číta Paulus podla anglického prekladu dieľ 2
 [![Audiokniha (Česky) číta Paulus podla anglického prekladu](https://img.youtube.com/vi/ZYik4KJUUwo/hqdefault.jpg)](https://www.youtube.com/watch?v=ZYik4KJUUwo){:target="_blank"}
-
-### PDF Kniha 
-
-[PDF Kniha](https://next.tomig.org/index.php/s/Sk5zFXFKTLgen9P){:target="_blank"}
