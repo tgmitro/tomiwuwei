@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Barometer nášho duchovného života"
-date:   2025-05-11 12:00:00 +0100
+title: Barometer nášho duchovného života
+date: '2025-05-11 12:00:00 +0100'
 categories: barometer
 ---
 
-Ranná meditačná prednáška prednesená v posvätnej sále samádhi Gurudeva Sri Swamiho Sivanandaji Maharaj, Sivananda Ashram, Rishikesh
+Ranná meditačná prednáška prednesená v posvätnej sále samádhi Gurudeva Sri Swamiho Sivanandaji 
 
 Je dobre známe, že Gurudév napísal viac ako 300 kníh o všetkých aspektoch duchovného života. V šírke jeho záujmu boli zahrnuté knihy o zdraví, divadelné hry, básne a z času na čas písal rôzne verzie duchovných barometrov, ktoré mali zvyčajne formu kladenia otázok: „Ako by ste sa cítili, keby „ A potom vymenoval množstvo poburujúcich vecí a na záver povedal: “Ak vám nič z toho neprekáža, potom ste na 50 % cesty k cieľu.“ Tým v istom zmysle opakoval Pána Krišnu v Gíte, najmä na konci druhej a dvanástej kapitoly.
 
