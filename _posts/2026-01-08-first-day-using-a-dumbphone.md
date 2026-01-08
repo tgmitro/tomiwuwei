@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Moj prvy den pouzivania ‘dumbphonu’
 ---
 ## Moj prvy den pouzivania 'dumbphonu'
 
