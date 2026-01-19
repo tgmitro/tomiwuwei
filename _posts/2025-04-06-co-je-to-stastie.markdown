@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Čo je to štastie?"
-date:   2025-04-06 12:00:00 +0100
+title: Čo je to štastie?
+date: '2025-04-06 12:00:00 +0100'
 categories: stastie
 ---
 
-## Čo je šťastie?
 Šťastie znamená absenciu túžob!
 
 Keď tu uvediem niekoľko poznámok k pojmu šťastie, nemám na mysli tieto alebo podobné pojmy šťastia.
