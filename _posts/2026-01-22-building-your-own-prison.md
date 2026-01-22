@@ -1,3 +1,6 @@
+---
+layout: post
+---
 
 Building Your Own Prison from My Dinner with Andre
 
